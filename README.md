@@ -1,0 +1,2 @@
+# MyNewRepo
+Git learning
